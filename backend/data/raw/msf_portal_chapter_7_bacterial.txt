@@ -1,0 +1,14 @@
+SOURCE: MSF Medical Guidelines Portal
+TOPIC: chapter_7_bacterial
+URL: https://medicalguidelines.msf.org/en/viewport/CG/english/chapter-7-bacterial-diseases-16689168.html
+---
+Bacterial meningitis
+Tetanus
+Enteric (typhoid and paratyphoid) fevers
+Brucellosis
+Plague
+Leptospirosis
+Relapsing fever (borreliosis)
+Louse-borne relapsing fever (LBRF)
+Tick-borne relapsing fever (TBRF)
+Eruptive rickettsioses

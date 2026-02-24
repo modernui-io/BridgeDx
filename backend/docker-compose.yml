@@ -1,0 +1,68 @@
+version: "3.9"
+
+services:
+  api:
+    build: .
+    container_name: bridgedx-api
+    ports:
+      - "8000:8000"
+    environment:
+      - MINIO_ENDPOINT=minio:9000
+      - MINIO_ACCESS_KEY=${MINIO_ACCESS_KEY:-bridgedx}
+      - MINIO_SECRET_KEY=${MINIO_SECRET_KEY:-bridgedx_secret_dev}
+      - INFERENCE_BACKEND=${INFERENCE_BACKEND:-vertex}
+      - OLLAMA_BASE_URL=http://ollama:11434
+      - GOOGLE_CLOUD_PROJECT=${GOOGLE_CLOUD_PROJECT:-}
+      - DATABASE_URL=sqlite:///./data/bridgedx.db
+    volumes:
+      - ./data:/app/data
+      - ./logs:/app/logs
+    depends_on:
+      minio:
+        condition: service_healthy
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/api/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  minio:
+    image: minio/minio:latest
+    container_name: bridgedx-minio
+    ports:
+      - "9000:9000"
+      - "9001:9001"
+    environment:
+      - MINIO_ROOT_USER=${MINIO_ACCESS_KEY:-bridgedx}
+      - MINIO_ROOT_PASSWORD=${MINIO_SECRET_KEY:-bridgedx_secret_dev}
+    volumes:
+      - minio_data:/data
+    command: server /data --console-address ":9001"
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:9000/minio/health/live"]
+      interval: 15s
+      timeout: 10s
+      retries: 5
+
+  minio-init:
+    image: minio/mc:latest
+    container_name: bridgedx-minio-init
+    depends_on:
+      minio:
+        condition: service_healthy
+    entrypoint: >
+      /bin/sh -c "
+        mc alias set local http://minio:9000 ${MINIO_ACCESS_KEY:-bridgedx} ${MINIO_SECRET_KEY:-bridgedx_secret_dev} &&
+        mc mb --ignore-existing local/uploads &&
+        mc mb --ignore-existing local/reports &&
+        mc mb --ignore-existing local/exports &&
+        mc anonymous set none local/uploads &&
+        mc anonymous set none local/reports &&
+        echo 'MinIO buckets initialized.'
+      "
+    restart: "no"
+
+volumes:
+  minio_data:

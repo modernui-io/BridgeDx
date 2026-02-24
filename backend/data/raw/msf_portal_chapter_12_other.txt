@@ -1,0 +1,12 @@
+SOURCE: MSF Medical Guidelines Portal
+TOPIC: chapter_12_other
+URL: https://medicalguidelines.msf.org/en/viewport/CG/english/chapter-12-other-conditions-16689178.html
+---
+Sickle cell disease
+Epilepsy
+Diabetes type 2 in adults
+Essential hypertension in adults
+Heart failure in adults
+Chronic heart failure
+Acute heart failure (acute pulmonary oedema)
+Endemic goitre and iodine deficiency

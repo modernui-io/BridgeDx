@@ -1,0 +1,766 @@
+# IMCI Coverage Report
+
+- Pages processed: 80
+- Spans extracted: 5539
+- Rules extracted: 675
+- Unresolved items: 0
+- Round-trip issues: 375
+
+## Rule Coverage
+- rule_weight_16_1: 25
+- rule_weight_16_2: 25
+- rule_weight_16_3: 25
+- rule_weight_16_4: 25
+- rule_weight_18_5: 25
+- rule_weight_18_6: 25
+- rule_weight_21_7: 25
+- rule_weight_21_8: 25
+- rule_weight_21_9: 25
+- rule_weight_21_10: 25
+- rule_weight_21_11: 25
+- rule_weight_21_12: 25
+- rule_weight_21_13: 25
+- rule_weight_21_14: 25
+- rule_weight_21_15: 25
+- rule_weight_68_16: 25
+- rule_1_1: 25
+- rule_1_2: 25
+- rule_5_3: 25
+- rule_6_4: 25
+- rule_6_5: 25
+- rule_6_6: 25
+- rule_7_7: 25
+- rule_7_8: 25
+- rule_7_9: 25
+- rule_7_10: 25
+- rule_7_11: 25
+- rule_7_12: 25
+- rule_8_13: 25
+- rule_8_14: 25
+- rule_8_15: 25
+- rule_8_16: 25
+- rule_8_17: 25
+- rule_8_18: 25
+- rule_8_19: 25
+- rule_8_20: 25
+- rule_9_21: 25
+- rule_9_22: 25
+- rule_9_23: 25
+- rule_9_24: 25
+- rule_10_25: 25
+- rule_10_26: 25
+- rule_10_27: 25
+- rule_10_28: 25
+- rule_11_29: 25
+- rule_11_30: 25
+- rule_11_31: 25
+- rule_11_32: 25
+- rule_12_33: 25
+- rule_12_34: 25
+- rule_12_35: 25
+- rule_14_36: 25
+- rule_14_37: 25
+- rule_14_38: 25
+- rule_14_39: 25
+- rule_14_40: 25
+- rule_14_41: 25
+- rule_15_42: 25
+- rule_15_43: 25
+- rule_15_44: 25
+- rule_16_45: 25
+- rule_16_46: 25
+- rule_16_47: 25
+- rule_16_48: 25
+- rule_16_49: 25
+- rule_16_50: 25
+- rule_16_51: 25
+- rule_16_52: 25
+- rule_16_53: 25
+- rule_16_54: 25
+- rule_16_55: 25
+- rule_16_56: 25
+- rule_16_57: 25
+- rule_16_58: 25
+- rule_16_59: 25
+- rule_16_60: 25
+- rule_16_61: 25
+- rule_16_62: 25
+- rule_17_64: 25
+- rule_17_65: 25
+- rule_17_66: 25
+- rule_17_67: 25
+- rule_17_68: 25
+- rule_17_69: 25
+- rule_17_70: 25
+- rule_17_71: 25
+- rule_17_72: 25
+- rule_17_73: 25
+- rule_17_74: 25
+- rule_17_75: 25
+- rule_18_76: 25
+- rule_18_77: 25
+- rule_18_78: 25
+- rule_18_79: 25
+- rule_18_80: 25
+- rule_18_81: 25
+- rule_19_82: 25
+- rule_20_83: 25
+- rule_20_84: 25
+- rule_20_85: 25
+- rule_21_86: 25
+- rule_21_87: 25
+- rule_21_88: 25
+- rule_21_89: 25
+- rule_21_90: 25
+- rule_21_91: 25
+- rule_21_92: 25
+- rule_21_93: 25
+- rule_21_94: 25
+- rule_21_95: 25
+- rule_21_96: 25
+- rule_21_97: 25
+- rule_21_98: 25
+- rule_21_99: 25
+- rule_21_100: 25
+- rule_21_101: 25
+- rule_21_102: 25
+- rule_23_104: 25
+- rule_23_105: 25
+- rule_23_106: 25
+- rule_23_107: 25
+- rule_23_108: 25
+- rule_23_109: 25
+- rule_23_110: 25
+- rule_23_111: 25
+- rule_24_113: 25
+- rule_24_114: 25
+- rule_24_115: 25
+- rule_25_116: 25
+- rule_25_117: 25
+- rule_25_118: 25
+- rule_25_119: 25
+- rule_25_120: 25
+- rule_25_121: 25
+- rule_25_122: 25
+- rule_25_123: 25
+- rule_26_124: 25
+- rule_26_125: 25
+- rule_26_126: 25
+- rule_27_128: 25
+- rule_27_129: 25
+- rule_27_130: 25
+- rule_27_131: 25
+- rule_27_132: 25
+- rule_27_133: 25
+- rule_27_134: 25
+- rule_27_135: 25
+- rule_27_136: 25
+- rule_27_137: 25
+- rule_27_138: 25
+- rule_28_140: 25
+- rule_28_141: 25
+- rule_28_142: 25
+- rule_28_143: 25
+- rule_28_144: 25
+- rule_28_145: 25
+- rule_28_146: 25
+- rule_28_147: 25
+- rule_28_148: 25
+- rule_28_149: 25
+- rule_28_150: 25
+- rule_28_151: 25
+- rule_28_152: 25
+- rule_28_153: 25
+- rule_28_154: 25
+- rule_28_155: 25
+- rule_28_156: 25
+- rule_28_157: 25
+- rule_29_159: 25
+- rule_29_160: 25
+- rule_29_161: 25
+- rule_29_162: 25
+- rule_29_163: 25
+- rule_29_164: 25
+- rule_29_165: 25
+- rule_29_166: 25
+- rule_30_168: 25
+- rule_30_169: 25
+- rule_30_170: 25
+- rule_30_171: 25
+- rule_30_172: 25
+- rule_30_173: 25
+- rule_30_174: 25
+- rule_30_175: 25
+- rule_30_176: 25
+- rule_30_177: 25
+- rule_30_178: 25
+- rule_31_179: 25
+- rule_31_180: 25
+- rule_31_181: 25
+- rule_31_182: 25
+- rule_31_183: 25
+- rule_31_184: 25
+- rule_31_185: 25
+- rule_32_186: 25
+- rule_32_187: 25
+- rule_33_188: 25
+- rule_33_189: 25
+- rule_33_190: 25
+- rule_35_191: 25
+- rule_36_193: 25
+- rule_36_194: 25
+- rule_37_195: 25
+- rule_43_196: 25
+- rule_43_197: 25
+- rule_43_198: 25
+- rule_43_199: 25
+- rule_43_200: 25
+- rule_43_201: 25
+- rule_43_202: 25
+- rule_43_203: 25
+- rule_45_204: 25
+- rule_45_205: 25
+- rule_45_206: 25
+- rule_46_207: 25
+- rule_46_208: 25
+- rule_46_209: 25
+- rule_46_210: 25
+- rule_46_211: 25
+- rule_46_212: 25
+- rule_46_213: 25
+- rule_46_214: 25
+- rule_47_215: 25
+- rule_47_216: 25
+- rule_47_217: 25
+- rule_48_218: 25
+- rule_48_219: 25
+- rule_49_220: 25
+- rule_51_222: 25
+- rule_51_223: 25
+- rule_51_224: 25
+- rule_51_225: 25
+- rule_51_226: 25
+- rule_51_227: 25
+- rule_51_228: 25
+- rule_51_229: 25
+- rule_51_230: 25
+- rule_51_231: 25
+- rule_51_232: 25
+- rule_52_234: 25
+- rule_52_235: 25
+- rule_52_236: 25
+- rule_52_237: 25
+- rule_52_238: 25
+- rule_53_239: 25
+- rule_53_240: 25
+- rule_53_241: 25
+- rule_53_242: 25
+- rule_54_243: 25
+- rule_55_245: 25
+- rule_55_246: 25
+- rule_55_247: 25
+- rule_55_248: 25
+- rule_56_249: 25
+- rule_59_251: 25
+- rule_60_252: 25
+- rule_60_253: 25
+- rule_60_254: 25
+- rule_60_255: 25
+- rule_61_257: 25
+- rule_61_258: 25
+- rule_61_259: 25
+- rule_62_261: 25
+- rule_62_262: 25
+- rule_62_263: 25
+- rule_63_265: 25
+- rule_63_266: 25
+- rule_63_267: 25
+- rule_64_268: 25
+- rule_64_269: 25
+- rule_64_270: 25
+- rule_64_271: 25
+- rule_64_272: 25
+- rule_64_273: 25
+- rule_64_274: 25
+- rule_66_275: 25
+- rule_66_276: 25
+- rule_66_277: 25
+- rule_66_278: 25
+- rule_68_279: 25
+- rule_68_280: 25
+- rule_68_281: 25
+- rule_70_282: 25
+- rule_linear_5_1: 25
+- rule_linear_6_2: 25
+- rule_linear_6_3: 25
+- rule_linear_6_4: 25
+- rule_linear_7_5: 25
+- rule_linear_7_6: 25
+- rule_linear_7_7: 25
+- rule_linear_7_8: 25
+- rule_linear_7_9: 25
+- rule_linear_7_10: 25
+- rule_linear_7_11: 25
+- rule_linear_8_12: 25
+- rule_linear_8_13: 25
+- rule_linear_8_14: 25
+- rule_linear_8_15: 25
+- rule_linear_8_16: 25
+- rule_linear_8_17: 25
+- rule_linear_8_18: 25
+- rule_linear_10_19: 25
+- rule_linear_10_20: 25
+- rule_linear_10_21: 25
+- rule_linear_10_22: 25
+- rule_linear_11_23: 25
+- rule_linear_11_24: 25
+- rule_linear_11_25: 25
+- rule_linear_11_26: 25
+- rule_linear_11_27: 25
+- rule_linear_12_28: 25
+- rule_linear_21_29: 25
+- rule_linear_24_30: 25
+- rule_linear_24_31: 25
+- rule_linear_24_32: 25
+- rule_linear_24_33: 25
+- rule_linear_24_34: 25
+- rule_linear_36_35: 25
+- rule_linear_36_36: 25
+- rule_linear_42_37: 25
+- rule_linear_43_38: 25
+- rule_linear_43_39: 25
+- rule_linear_43_40: 25
+- rule_linear_43_41: 25
+- rule_linear_45_42: 25
+- rule_linear_45_43: 25
+- rule_linear_46_44: 25
+- rule_linear_46_45: 25
+- rule_linear_46_46: 25
+- rule_linear_46_47: 25
+- rule_linear_46_48: 25
+- rule_linear_48_49: 25
+- rule_linear_48_50: 25
+- rule_linear_49_51: 25
+- rule_linear_49_52: 25
+- rule_linear_49_53: 25
+- rule_linear_55_54: 25
+- rule_linear_64_55: 25
+- rule_linear_66_56: 25
+- rule_linear_66_57: 25
+- rule_linear_66_58: 25
+- rule_linear_66_59: 25
+- rule_linear_68_60: 25
+- rule_linear_68_61: 25
+- rule_linear_68_62: 25
+- rule_linear_70_63: 25
+- rule_block_5_1: 25
+- rule_block_5_2: 25
+- rule_block_6_3: 25
+- rule_block_6_4: 25
+- rule_block_6_5: 25
+- rule_block_6_6: 25
+- rule_block_6_7: 25
+- rule_block_6_8: 25
+- rule_block_6_9: 25
+- rule_block_7_10: 25
+- rule_block_7_11: 25
+- rule_block_7_12: 25
+- rule_block_7_13: 25
+- rule_block_7_14: 25
+- rule_block_7_15: 25
+- rule_block_7_16: 25
+- rule_block_7_17: 25
+- rule_block_7_18: 25
+- rule_block_7_19: 25
+- rule_block_7_20: 25
+- rule_block_7_21: 25
+- rule_block_7_22: 25
+- rule_block_7_23: 25
+- rule_block_8_24: 25
+- rule_block_8_25: 25
+- rule_block_8_26: 25
+- rule_block_8_27: 25
+- rule_block_8_28: 25
+- rule_block_8_29: 25
+- rule_block_8_30: 25
+- rule_block_8_31: 25
+- rule_block_8_32: 25
+- rule_block_8_33: 25
+- rule_block_8_34: 25
+- rule_block_8_35: 25
+- rule_block_8_36: 25
+- rule_block_8_37: 25
+- rule_block_8_38: 25
+- rule_block_8_39: 25
+- rule_block_9_40: 25
+- rule_block_9_41: 25
+- rule_block_9_42: 25
+- rule_block_9_43: 25
+- rule_block_10_44: 25
+- rule_block_10_45: 25
+- rule_block_10_46: 25
+- rule_block_10_47: 25
+- rule_block_10_48: 25
+- rule_block_10_49: 25
+- rule_block_10_50: 25
+- rule_block_10_51: 25
+- rule_block_10_52: 25
+- rule_block_10_53: 25
+- rule_block_10_54: 25
+- rule_block_11_55: 25
+- rule_block_11_56: 25
+- rule_block_11_57: 25
+- rule_block_11_58: 25
+- rule_block_11_59: 25
+- rule_block_11_60: 25
+- rule_block_11_61: 25
+- rule_block_12_62: 25
+- rule_block_12_63: 25
+- rule_block_12_64: 25
+- rule_block_12_65: 25
+- rule_block_16_66: 25
+- rule_block_21_67: 25
+- rule_block_21_68: 25
+- rule_block_24_69: 25
+- rule_block_24_70: 25
+- rule_block_24_71: 25
+- rule_block_24_72: 25
+- rule_block_24_73: 25
+- rule_block_24_74: 25
+- rule_block_36_75: 25
+- rule_block_36_76: 25
+- rule_block_36_77: 25
+- rule_block_42_78: 25
+- rule_block_43_79: 25
+- rule_block_43_80: 25
+- rule_block_43_81: 25
+- rule_block_43_82: 25
+- rule_block_43_83: 25
+- rule_block_43_84: 25
+- rule_block_43_85: 25
+- rule_block_43_86: 25
+- rule_block_45_87: 25
+- rule_block_45_88: 25
+- rule_block_45_89: 25
+- rule_block_45_90: 25
+- rule_block_45_91: 25
+- rule_block_45_92: 25
+- rule_block_46_93: 25
+- rule_block_46_94: 25
+- rule_block_46_95: 25
+- rule_block_46_96: 25
+- rule_block_46_97: 25
+- rule_block_46_98: 25
+- rule_block_46_99: 25
+- rule_block_46_100: 25
+- rule_block_46_101: 25
+- rule_block_46_102: 25
+- rule_block_46_103: 25
+- rule_block_46_104: 25
+- rule_block_46_105: 25
+- rule_block_47_106: 25
+- rule_block_47_107: 25
+- rule_block_47_108: 25
+- rule_block_48_109: 25
+- rule_block_48_110: 25
+- rule_block_48_111: 25
+- rule_block_48_112: 25
+- rule_block_48_113: 25
+- rule_block_49_114: 25
+- rule_block_49_115: 25
+- rule_block_49_116: 25
+- rule_block_49_117: 25
+- rule_block_55_118: 25
+- rule_block_55_119: 25
+- rule_block_64_120: 25
+- rule_block_64_121: 25
+- rule_block_64_122: 25
+- rule_block_64_123: 25
+- rule_block_64_124: 25
+- rule_block_66_125: 25
+- rule_block_66_126: 25
+- rule_block_66_127: 25
+- rule_block_66_128: 25
+- rule_block_68_129: 25
+- rule_block_68_130: 25
+- rule_block_68_131: 25
+- rule_block_68_132: 25
+- rule_block_70_133: 25
+- rule_block_70_134: 25
+- rule_block_70_135: 25
+- rule_orphan_13_482: 25
+- rule_orphan_13_483: 25
+- rule_orphan_13_484: 25
+- rule_orphan_13_485: 25
+- rule_orphan_13_486: 25
+- rule_orphan_22_487: 25
+- rule_orphan_22_488: 25
+- rule_orphan_22_489: 25
+- rule_orphan_22_490: 25
+- rule_orphan_22_491: 25
+- rule_orphan_22_492: 25
+- rule_orphan_22_493: 25
+- rule_orphan_22_494: 25
+- rule_orphan_34_495: 25
+- rule_orphan_34_496: 25
+- rule_orphan_34_497: 25
+- rule_orphan_34_498: 25
+- rule_orphan_34_499: 25
+- rule_orphan_34_500: 25
+- rule_orphan_34_501: 25
+- rule_orphan_34_502: 25
+- rule_orphan_34_503: 25
+- rule_orphan_34_504: 25
+- rule_orphan_34_505: 25
+- rule_orphan_34_506: 25
+- rule_orphan_34_507: 25
+- rule_orphan_34_508: 25
+- rule_orphan_34_509: 25
+- rule_orphan_34_510: 25
+- rule_orphan_34_511: 25
+- rule_orphan_34_512: 25
+- rule_orphan_34_513: 25
+- rule_orphan_34_514: 25
+- rule_orphan_34_515: 25
+- rule_orphan_34_516: 25
+- rule_orphan_34_517: 25
+- rule_orphan_34_518: 25
+- rule_orphan_38_519: 25
+- rule_orphan_38_520: 25
+- rule_orphan_38_521: 25
+- rule_orphan_38_522: 25
+- rule_orphan_38_523: 25
+- rule_orphan_38_524: 25
+- rule_orphan_38_525: 25
+- rule_orphan_38_526: 25
+- rule_orphan_38_527: 25
+- rule_orphan_38_528: 25
+- rule_orphan_38_529: 25
+- rule_orphan_38_530: 25
+- rule_orphan_38_531: 25
+- rule_orphan_38_532: 25
+- rule_orphan_38_533: 25
+- rule_orphan_38_534: 25
+- rule_orphan_38_535: 25
+- rule_orphan_38_536: 25
+- rule_orphan_38_537: 25
+- rule_orphan_38_538: 25
+- rule_orphan_38_539: 25
+- rule_orphan_38_540: 25
+- rule_orphan_38_541: 25
+- rule_orphan_38_542: 25
+- rule_orphan_38_543: 25
+- rule_orphan_38_544: 25
+- rule_orphan_38_545: 25
+- rule_orphan_38_546: 25
+- rule_orphan_38_547: 25
+- rule_orphan_39_548: 25
+- rule_orphan_39_549: 25
+- rule_orphan_39_550: 25
+- rule_orphan_39_551: 25
+- rule_orphan_39_552: 25
+- rule_orphan_39_553: 25
+- rule_orphan_39_554: 25
+- rule_orphan_39_555: 25
+- rule_orphan_39_556: 25
+- rule_orphan_39_557: 25
+- rule_orphan_39_558: 25
+- rule_orphan_39_559: 25
+- rule_orphan_39_560: 25
+- rule_orphan_39_561: 25
+- rule_orphan_39_562: 25
+- rule_orphan_39_563: 25
+- rule_orphan_39_564: 25
+- rule_orphan_39_565: 25
+- rule_orphan_39_566: 25
+- rule_orphan_39_567: 25
+- rule_orphan_39_568: 25
+- rule_orphan_40_569: 25
+- rule_orphan_40_570: 25
+- rule_orphan_40_571: 25
+- rule_orphan_40_572: 25
+- rule_orphan_40_573: 25
+- rule_orphan_40_574: 25
+- rule_orphan_40_575: 25
+- rule_orphan_40_576: 25
+- rule_orphan_40_577: 25
+- rule_orphan_40_578: 25
+- rule_orphan_40_579: 25
+- rule_orphan_40_580: 25
+- rule_orphan_40_581: 25
+- rule_orphan_41_582: 25
+- rule_orphan_41_583: 25
+- rule_orphan_41_584: 25
+- rule_orphan_41_585: 25
+- rule_orphan_41_586: 25
+- rule_orphan_41_587: 25
+- rule_orphan_44_588: 25
+- rule_orphan_44_589: 25
+- rule_orphan_44_590: 25
+- rule_orphan_44_591: 25
+- rule_orphan_50_592: 25
+- rule_orphan_50_593: 25
+- rule_orphan_50_594: 25
+- rule_orphan_57_595: 25
+- rule_orphan_57_596: 25
+- rule_orphan_57_597: 25
+- rule_orphan_57_598: 25
+- rule_orphan_57_599: 25
+- rule_orphan_57_600: 25
+- rule_orphan_57_601: 25
+- rule_orphan_57_602: 25
+- rule_orphan_57_603: 25
+- rule_orphan_57_604: 25
+- rule_orphan_57_605: 25
+- rule_orphan_57_606: 25
+- rule_orphan_57_607: 25
+- rule_orphan_57_608: 25
+- rule_orphan_57_609: 25
+- rule_orphan_57_610: 25
+- rule_orphan_57_611: 25
+- rule_orphan_58_612: 25
+- rule_orphan_58_613: 25
+- rule_orphan_58_614: 25
+- rule_orphan_58_615: 25
+- rule_orphan_58_616: 25
+- rule_orphan_58_617: 25
+- rule_orphan_65_618: 25
+- rule_orphan_65_619: 25
+- rule_orphan_65_620: 25
+- rule_orphan_67_621: 25
+- rule_orphan_71_622: 25
+- rule_orphan_71_623: 25
+- rule_orphan_78_624: 25
+- rule_orphan_78_625: 25
+- rule_orphan_79_626: 25
+- rule_orphan_79_627: 25
+- rule_orphan_79_628: 25
+- rule_orphan_79_629: 25
+- rule_orphan_79_630: 25
+- rule_orphan_3_631: 25
+- rule_orphan_13_632: 25
+- rule_orphan_13_633: 25
+- rule_orphan_13_634: 25
+- rule_orphan_13_635: 25
+- rule_orphan_22_636: 25
+- rule_orphan_22_637: 25
+- rule_orphan_34_638: 25
+- rule_orphan_34_639: 25
+- rule_orphan_34_640: 25
+- rule_orphan_38_641: 25
+- rule_orphan_38_642: 25
+- rule_orphan_38_643: 25
+- rule_orphan_38_644: 25
+- rule_orphan_38_645: 25
+- rule_orphan_38_646: 25
+- rule_orphan_38_647: 25
+- rule_orphan_39_648: 25
+- rule_orphan_39_649: 25
+- rule_orphan_39_650: 25
+- rule_orphan_39_651: 25
+- rule_orphan_40_652: 25
+- rule_orphan_40_653: 25
+- rule_orphan_40_654: 25
+- rule_orphan_40_655: 25
+- rule_orphan_41_656: 25
+- rule_orphan_41_657: 25
+- rule_orphan_41_658: 25
+- rule_orphan_44_659: 25
+- rule_orphan_44_660: 25
+- rule_orphan_44_661: 25
+- rule_orphan_44_662: 25
+- rule_orphan_50_663: 25
+- rule_orphan_50_664: 25
+- rule_orphan_50_665: 25
+- rule_orphan_50_666: 25
+- rule_orphan_57_667: 25
+- rule_orphan_57_668: 25
+- rule_orphan_57_669: 25
+- rule_orphan_57_670: 25
+- rule_orphan_57_671: 25
+- rule_orphan_57_672: 25
+- rule_orphan_58_673: 25
+- rule_orphan_58_674: 25
+- rule_orphan_58_675: 25
+
+## Source Coverage
+- Page 1: 100.0% mapped
+- Page 2: 0.0% mapped
+- Page 3: 100.0% mapped
+- Page 4: 0.0% mapped
+- Page 5: 100.0% mapped
+- Page 6: 100.0% mapped
+- Page 7: 100.0% mapped
+- Page 8: 100.0% mapped
+- Page 9: 100.0% mapped
+- Page 10: 100.0% mapped
+- Page 11: 100.0% mapped
+- Page 12: 100.0% mapped
+- Page 13: 100.0% mapped
+- Page 14: 100.0% mapped
+- Page 15: 100.0% mapped
+- Page 16: 100.0% mapped
+- Page 17: 100.0% mapped
+- Page 18: 100.0% mapped
+- Page 19: 100.0% mapped
+- Page 20: 100.0% mapped
+- Page 21: 100.0% mapped
+- Page 22: 100.0% mapped
+- Page 23: 100.0% mapped
+- Page 24: 100.0% mapped
+- Page 25: 100.0% mapped
+- Page 26: 100.0% mapped
+- Page 27: 100.0% mapped
+- Page 28: 100.0% mapped
+- Page 29: 100.0% mapped
+- Page 30: 100.0% mapped
+- Page 31: 100.0% mapped
+- Page 32: 100.0% mapped
+- Page 33: 100.0% mapped
+- Page 34: 100.0% mapped
+- Page 35: 100.0% mapped
+- Page 36: 100.0% mapped
+- Page 37: 100.0% mapped
+- Page 38: 100.0% mapped
+- Page 39: 100.0% mapped
+- Page 40: 100.0% mapped
+- Page 41: 100.0% mapped
+- Page 42: 100.0% mapped
+- Page 43: 100.0% mapped
+- Page 44: 100.0% mapped
+- Page 45: 100.0% mapped
+- Page 46: 100.0% mapped
+- Page 47: 100.0% mapped
+- Page 48: 100.0% mapped
+- Page 49: 100.0% mapped
+- Page 50: 100.0% mapped
+- Page 51: 100.0% mapped
+- Page 52: 100.0% mapped
+- Page 53: 100.0% mapped
+- Page 54: 100.0% mapped
+- Page 55: 100.0% mapped
+- Page 56: 100.0% mapped
+- Page 57: 100.0% mapped
+- Page 58: 100.0% mapped
+- Page 59: 100.0% mapped
+- Page 60: 100.0% mapped
+- Page 61: 100.0% mapped
+- Page 62: 100.0% mapped
+- Page 63: 100.0% mapped
+- Page 64: 100.0% mapped
+- Page 65: 100.0% mapped
+- Page 66: 100.0% mapped
+- Page 67: 100.0% mapped
+- Page 68: 100.0% mapped
+- Page 69: 0.0% mapped
+- Page 70: 100.0% mapped
+- Page 71: 100.0% mapped
+- Page 72: 0.0% mapped
+- Page 73: 0.0% mapped
+- Page 74: 0.0% mapped
+- Page 75: 0.0% mapped
+- Page 76: 0.0% mapped
+- Page 77: 0.0% mapped
+- Page 78: 100.0% mapped
+- Page 79: 100.0% mapped
+- Page 80: 0.0% mapped

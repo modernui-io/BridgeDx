@@ -1,0 +1,17 @@
+SOURCE: MSF Medical Guidelines Portal
+TOPIC: chapter_6_parasitic
+URL: https://medicalguidelines.msf.org/en/viewport/CG/english/chapter-6-parasitic-diseases-16689166.html
+---
+Malaria
+Human African trypanosomiasis (sleeping sickness)
+American trypanosomiasis (Chagas disease)
+Leishmaniases
+Intestinal protozoan infections (parasitic diarrhoea)
+Flukes
+Schistosomiases
+Cestodes
+Nematode infections
+Filariasis
+Onchocerciasis (river blindness)
+Loiasis.
+Lymphatic filariasis (LF)

@@ -1,0 +1,12 @@
+SOURCE: MSF Medical Guidelines Portal
+TOPIC: chapter_1_symptoms_syndromes
+URL: https://medicalguidelines.msf.org/en/viewport/CG/english/chapter-1-a-few-symptoms-and-syndromes-16689158.html
+---
+Shock
+Generalised tonic-clonic seizures and convulsive status epilepticus
+Hypoglycaemia
+Fever
+Pain
+Anaemia
+Dehydration
+Severe acute malnutrition

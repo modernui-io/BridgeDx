@@ -1,0 +1,11 @@
+SOURCE: MSF Medical Guidelines Portal
+TOPIC: chapter_8_viral
+URL: https://medicalguidelines.msf.org/en/viewport/CG/english/chapter-8-viral-diseases-16689170.html
+---
+Measles
+Poliomyelitis
+Rabies
+Viral hepatitis
+Dengue
+Viral haemorrhagic fevers
+HIV infection and AIDS

@@ -1,0 +1,1877 @@
+[
+  {
+    "case_id": "case_1",
+    "rule_id": "rule_weight_16_1",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_2",
+    "rule_id": "rule_weight_16_1",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_3",
+    "rule_id": "rule_weight_16_1",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_4",
+    "rule_id": "rule_weight_16_1",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_5",
+    "rule_id": "rule_weight_16_1",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_6",
+    "rule_id": "rule_weight_16_1",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_7",
+    "rule_id": "rule_weight_16_1",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_8",
+    "rule_id": "rule_weight_16_1",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_9",
+    "rule_id": "rule_weight_16_1",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_10",
+    "rule_id": "rule_weight_16_1",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_11",
+    "rule_id": "rule_weight_16_1",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_12",
+    "rule_id": "rule_weight_16_1",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_13",
+    "rule_id": "rule_weight_16_1",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_14",
+    "rule_id": "rule_weight_16_1",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_15",
+    "rule_id": "rule_weight_16_1",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_16",
+    "rule_id": "rule_weight_16_1",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_17",
+    "rule_id": "rule_weight_16_1",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_18",
+    "rule_id": "rule_weight_16_1",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_19",
+    "rule_id": "rule_weight_16_1",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_20",
+    "rule_id": "rule_weight_16_1",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_21",
+    "rule_id": "rule_weight_16_1",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_22",
+    "rule_id": "rule_weight_16_1",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_23",
+    "rule_id": "rule_weight_16_1",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_24",
+    "rule_id": "rule_weight_16_1",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_25",
+    "rule_id": "rule_weight_16_1",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_26",
+    "rule_id": "rule_weight_16_2",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_27",
+    "rule_id": "rule_weight_16_2",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_28",
+    "rule_id": "rule_weight_16_2",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_29",
+    "rule_id": "rule_weight_16_2",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_30",
+    "rule_id": "rule_weight_16_2",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_31",
+    "rule_id": "rule_weight_16_2",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_32",
+    "rule_id": "rule_weight_16_2",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_33",
+    "rule_id": "rule_weight_16_2",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_34",
+    "rule_id": "rule_weight_16_2",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_35",
+    "rule_id": "rule_weight_16_2",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_36",
+    "rule_id": "rule_weight_16_2",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_37",
+    "rule_id": "rule_weight_16_2",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_38",
+    "rule_id": "rule_weight_16_2",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_39",
+    "rule_id": "rule_weight_16_2",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_40",
+    "rule_id": "rule_weight_16_2",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_41",
+    "rule_id": "rule_weight_16_2",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_42",
+    "rule_id": "rule_weight_16_2",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_43",
+    "rule_id": "rule_weight_16_2",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_44",
+    "rule_id": "rule_weight_16_2",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_45",
+    "rule_id": "rule_weight_16_2",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_46",
+    "rule_id": "rule_weight_16_2",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_47",
+    "rule_id": "rule_weight_16_2",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_48",
+    "rule_id": "rule_weight_16_2",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_49",
+    "rule_id": "rule_weight_16_2",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_50",
+    "rule_id": "rule_weight_16_2",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_51",
+    "rule_id": "rule_weight_16_3",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_52",
+    "rule_id": "rule_weight_16_3",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_53",
+    "rule_id": "rule_weight_16_3",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_54",
+    "rule_id": "rule_weight_16_3",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_55",
+    "rule_id": "rule_weight_16_3",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_56",
+    "rule_id": "rule_weight_16_3",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_57",
+    "rule_id": "rule_weight_16_3",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_58",
+    "rule_id": "rule_weight_16_3",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_59",
+    "rule_id": "rule_weight_16_3",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_60",
+    "rule_id": "rule_weight_16_3",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_61",
+    "rule_id": "rule_weight_16_3",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_62",
+    "rule_id": "rule_weight_16_3",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_63",
+    "rule_id": "rule_weight_16_3",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_64",
+    "rule_id": "rule_weight_16_3",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_65",
+    "rule_id": "rule_weight_16_3",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_66",
+    "rule_id": "rule_weight_16_3",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_67",
+    "rule_id": "rule_weight_16_3",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_68",
+    "rule_id": "rule_weight_16_3",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_69",
+    "rule_id": "rule_weight_16_3",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_70",
+    "rule_id": "rule_weight_16_3",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_71",
+    "rule_id": "rule_weight_16_3",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_72",
+    "rule_id": "rule_weight_16_3",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_73",
+    "rule_id": "rule_weight_16_3",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_74",
+    "rule_id": "rule_weight_16_3",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_75",
+    "rule_id": "rule_weight_16_3",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_76",
+    "rule_id": "rule_weight_16_4",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_77",
+    "rule_id": "rule_weight_16_4",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_78",
+    "rule_id": "rule_weight_16_4",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_79",
+    "rule_id": "rule_weight_16_4",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_80",
+    "rule_id": "rule_weight_16_4",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_81",
+    "rule_id": "rule_weight_16_4",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_82",
+    "rule_id": "rule_weight_16_4",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_83",
+    "rule_id": "rule_weight_16_4",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_84",
+    "rule_id": "rule_weight_16_4",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_85",
+    "rule_id": "rule_weight_16_4",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_86",
+    "rule_id": "rule_weight_16_4",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_87",
+    "rule_id": "rule_weight_16_4",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_88",
+    "rule_id": "rule_weight_16_4",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_89",
+    "rule_id": "rule_weight_16_4",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_90",
+    "rule_id": "rule_weight_16_4",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_91",
+    "rule_id": "rule_weight_16_4",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_92",
+    "rule_id": "rule_weight_16_4",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_93",
+    "rule_id": "rule_weight_16_4",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_94",
+    "rule_id": "rule_weight_16_4",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_95",
+    "rule_id": "rule_weight_16_4",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_96",
+    "rule_id": "rule_weight_16_4",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_97",
+    "rule_id": "rule_weight_16_4",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_98",
+    "rule_id": "rule_weight_16_4",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_99",
+    "rule_id": "rule_weight_16_4",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_100",
+    "rule_id": "rule_weight_16_4",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_101",
+    "rule_id": "rule_weight_18_5",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_102",
+    "rule_id": "rule_weight_18_5",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_103",
+    "rule_id": "rule_weight_18_5",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_104",
+    "rule_id": "rule_weight_18_5",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_105",
+    "rule_id": "rule_weight_18_5",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_106",
+    "rule_id": "rule_weight_18_5",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_107",
+    "rule_id": "rule_weight_18_5",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_108",
+    "rule_id": "rule_weight_18_5",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_109",
+    "rule_id": "rule_weight_18_5",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_110",
+    "rule_id": "rule_weight_18_5",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_111",
+    "rule_id": "rule_weight_18_5",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_112",
+    "rule_id": "rule_weight_18_5",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_113",
+    "rule_id": "rule_weight_18_5",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_114",
+    "rule_id": "rule_weight_18_5",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_115",
+    "rule_id": "rule_weight_18_5",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_116",
+    "rule_id": "rule_weight_18_5",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_117",
+    "rule_id": "rule_weight_18_5",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_118",
+    "rule_id": "rule_weight_18_5",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_119",
+    "rule_id": "rule_weight_18_5",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_120",
+    "rule_id": "rule_weight_18_5",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_121",
+    "rule_id": "rule_weight_18_5",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_122",
+    "rule_id": "rule_weight_18_5",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_123",
+    "rule_id": "rule_weight_18_5",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_124",
+    "rule_id": "rule_weight_18_5",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_125",
+    "rule_id": "rule_weight_18_5",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_126",
+    "rule_id": "rule_weight_18_6",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_127",
+    "rule_id": "rule_weight_18_6",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_128",
+    "rule_id": "rule_weight_18_6",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_129",
+    "rule_id": "rule_weight_18_6",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_130",
+    "rule_id": "rule_weight_18_6",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_131",
+    "rule_id": "rule_weight_18_6",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_132",
+    "rule_id": "rule_weight_18_6",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_133",
+    "rule_id": "rule_weight_18_6",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_134",
+    "rule_id": "rule_weight_18_6",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_135",
+    "rule_id": "rule_weight_18_6",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_136",
+    "rule_id": "rule_weight_18_6",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_137",
+    "rule_id": "rule_weight_18_6",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_138",
+    "rule_id": "rule_weight_18_6",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_139",
+    "rule_id": "rule_weight_18_6",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_140",
+    "rule_id": "rule_weight_18_6",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_141",
+    "rule_id": "rule_weight_18_6",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_142",
+    "rule_id": "rule_weight_18_6",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_143",
+    "rule_id": "rule_weight_18_6",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_144",
+    "rule_id": "rule_weight_18_6",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_145",
+    "rule_id": "rule_weight_18_6",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_146",
+    "rule_id": "rule_weight_18_6",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_147",
+    "rule_id": "rule_weight_18_6",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_148",
+    "rule_id": "rule_weight_18_6",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_149",
+    "rule_id": "rule_weight_18_6",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_150",
+    "rule_id": "rule_weight_18_6",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_151",
+    "rule_id": "rule_weight_21_7",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_152",
+    "rule_id": "rule_weight_21_7",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_153",
+    "rule_id": "rule_weight_21_7",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_154",
+    "rule_id": "rule_weight_21_7",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_155",
+    "rule_id": "rule_weight_21_7",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_156",
+    "rule_id": "rule_weight_21_7",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_157",
+    "rule_id": "rule_weight_21_7",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_158",
+    "rule_id": "rule_weight_21_7",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_159",
+    "rule_id": "rule_weight_21_7",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_160",
+    "rule_id": "rule_weight_21_7",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_161",
+    "rule_id": "rule_weight_21_7",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_162",
+    "rule_id": "rule_weight_21_7",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_163",
+    "rule_id": "rule_weight_21_7",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_164",
+    "rule_id": "rule_weight_21_7",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_165",
+    "rule_id": "rule_weight_21_7",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_166",
+    "rule_id": "rule_weight_21_7",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_167",
+    "rule_id": "rule_weight_21_7",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_168",
+    "rule_id": "rule_weight_21_7",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_169",
+    "rule_id": "rule_weight_21_7",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_170",
+    "rule_id": "rule_weight_21_7",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_171",
+    "rule_id": "rule_weight_21_7",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_172",
+    "rule_id": "rule_weight_21_7",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_173",
+    "rule_id": "rule_weight_21_7",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_174",
+    "rule_id": "rule_weight_21_7",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_175",
+    "rule_id": "rule_weight_21_7",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_176",
+    "rule_id": "rule_weight_21_8",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_177",
+    "rule_id": "rule_weight_21_8",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_178",
+    "rule_id": "rule_weight_21_8",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_179",
+    "rule_id": "rule_weight_21_8",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_180",
+    "rule_id": "rule_weight_21_8",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_181",
+    "rule_id": "rule_weight_21_8",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_182",
+    "rule_id": "rule_weight_21_8",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_183",
+    "rule_id": "rule_weight_21_8",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_184",
+    "rule_id": "rule_weight_21_8",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_185",
+    "rule_id": "rule_weight_21_8",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_186",
+    "rule_id": "rule_weight_21_8",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_187",
+    "rule_id": "rule_weight_21_8",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_188",
+    "rule_id": "rule_weight_21_8",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_189",
+    "rule_id": "rule_weight_21_8",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_190",
+    "rule_id": "rule_weight_21_8",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_191",
+    "rule_id": "rule_weight_21_8",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_192",
+    "rule_id": "rule_weight_21_8",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_193",
+    "rule_id": "rule_weight_21_8",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_194",
+    "rule_id": "rule_weight_21_8",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_195",
+    "rule_id": "rule_weight_21_8",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_196",
+    "rule_id": "rule_weight_21_8",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_197",
+    "rule_id": "rule_weight_21_8",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_198",
+    "rule_id": "rule_weight_21_8",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_199",
+    "rule_id": "rule_weight_21_8",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_200",
+    "rule_id": "rule_weight_21_8",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_201",
+    "rule_id": "rule_weight_21_9",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_202",
+    "rule_id": "rule_weight_21_9",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_203",
+    "rule_id": "rule_weight_21_9",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_204",
+    "rule_id": "rule_weight_21_9",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_205",
+    "rule_id": "rule_weight_21_9",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_206",
+    "rule_id": "rule_weight_21_9",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_207",
+    "rule_id": "rule_weight_21_9",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_208",
+    "rule_id": "rule_weight_21_9",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_209",
+    "rule_id": "rule_weight_21_9",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_210",
+    "rule_id": "rule_weight_21_9",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_211",
+    "rule_id": "rule_weight_21_9",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_212",
+    "rule_id": "rule_weight_21_9",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_213",
+    "rule_id": "rule_weight_21_9",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_214",
+    "rule_id": "rule_weight_21_9",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_215",
+    "rule_id": "rule_weight_21_9",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_216",
+    "rule_id": "rule_weight_21_9",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_217",
+    "rule_id": "rule_weight_21_9",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_218",
+    "rule_id": "rule_weight_21_9",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_219",
+    "rule_id": "rule_weight_21_9",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_220",
+    "rule_id": "rule_weight_21_9",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_221",
+    "rule_id": "rule_weight_21_9",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_222",
+    "rule_id": "rule_weight_21_9",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_223",
+    "rule_id": "rule_weight_21_9",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_224",
+    "rule_id": "rule_weight_21_9",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_225",
+    "rule_id": "rule_weight_21_9",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_226",
+    "rule_id": "rule_weight_21_10",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_227",
+    "rule_id": "rule_weight_21_10",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_228",
+    "rule_id": "rule_weight_21_10",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_229",
+    "rule_id": "rule_weight_21_10",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_230",
+    "rule_id": "rule_weight_21_10",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_231",
+    "rule_id": "rule_weight_21_10",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_232",
+    "rule_id": "rule_weight_21_10",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_233",
+    "rule_id": "rule_weight_21_10",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_234",
+    "rule_id": "rule_weight_21_10",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_235",
+    "rule_id": "rule_weight_21_10",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_236",
+    "rule_id": "rule_weight_21_10",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_237",
+    "rule_id": "rule_weight_21_10",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_238",
+    "rule_id": "rule_weight_21_10",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_239",
+    "rule_id": "rule_weight_21_10",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_240",
+    "rule_id": "rule_weight_21_10",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_241",
+    "rule_id": "rule_weight_21_10",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_242",
+    "rule_id": "rule_weight_21_10",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_243",
+    "rule_id": "rule_weight_21_10",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_244",
+    "rule_id": "rule_weight_21_10",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_245",
+    "rule_id": "rule_weight_21_10",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_246",
+    "rule_id": "rule_weight_21_10",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_247",
+    "rule_id": "rule_weight_21_10",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_248",
+    "rule_id": "rule_weight_21_10",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_249",
+    "rule_id": "rule_weight_21_10",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_250",
+    "rule_id": "rule_weight_21_10",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_251",
+    "rule_id": "rule_weight_21_11",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_252",
+    "rule_id": "rule_weight_21_11",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_253",
+    "rule_id": "rule_weight_21_11",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_254",
+    "rule_id": "rule_weight_21_11",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_255",
+    "rule_id": "rule_weight_21_11",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_256",
+    "rule_id": "rule_weight_21_11",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_257",
+    "rule_id": "rule_weight_21_11",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_258",
+    "rule_id": "rule_weight_21_11",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_259",
+    "rule_id": "rule_weight_21_11",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_260",
+    "rule_id": "rule_weight_21_11",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_261",
+    "rule_id": "rule_weight_21_11",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_262",
+    "rule_id": "rule_weight_21_11",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_263",
+    "rule_id": "rule_weight_21_11",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_264",
+    "rule_id": "rule_weight_21_11",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_265",
+    "rule_id": "rule_weight_21_11",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_266",
+    "rule_id": "rule_weight_21_11",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_267",
+    "rule_id": "rule_weight_21_11",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_268",
+    "rule_id": "rule_weight_21_11",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_269",
+    "rule_id": "rule_weight_21_11",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_270",
+    "rule_id": "rule_weight_21_11",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_271",
+    "rule_id": "rule_weight_21_11",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_272",
+    "rule_id": "rule_weight_21_11",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_273",
+    "rule_id": "rule_weight_21_11",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_274",
+    "rule_id": "rule_weight_21_11",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_275",
+    "rule_id": "rule_weight_21_11",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_276",
+    "rule_id": "rule_weight_21_12",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_277",
+    "rule_id": "rule_weight_21_12",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_278",
+    "rule_id": "rule_weight_21_12",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_279",
+    "rule_id": "rule_weight_21_12",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_280",
+    "rule_id": "rule_weight_21_12",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_281",
+    "rule_id": "rule_weight_21_12",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_282",
+    "rule_id": "rule_weight_21_12",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_283",
+    "rule_id": "rule_weight_21_12",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_284",
+    "rule_id": "rule_weight_21_12",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_285",
+    "rule_id": "rule_weight_21_12",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_286",
+    "rule_id": "rule_weight_21_12",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_287",
+    "rule_id": "rule_weight_21_12",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_288",
+    "rule_id": "rule_weight_21_12",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_289",
+    "rule_id": "rule_weight_21_12",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_290",
+    "rule_id": "rule_weight_21_12",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_291",
+    "rule_id": "rule_weight_21_12",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_292",
+    "rule_id": "rule_weight_21_12",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_293",
+    "rule_id": "rule_weight_21_12",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_294",
+    "rule_id": "rule_weight_21_12",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_295",
+    "rule_id": "rule_weight_21_12",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_296",
+    "rule_id": "rule_weight_21_12",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_297",
+    "rule_id": "rule_weight_21_12",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_298",
+    "rule_id": "rule_weight_21_12",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_299",
+    "rule_id": "rule_weight_21_12",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_300",
+    "rule_id": "rule_weight_21_12",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_301",
+    "rule_id": "rule_weight_21_13",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_302",
+    "rule_id": "rule_weight_21_13",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_303",
+    "rule_id": "rule_weight_21_13",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_304",
+    "rule_id": "rule_weight_21_13",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_305",
+    "rule_id": "rule_weight_21_13",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_306",
+    "rule_id": "rule_weight_21_13",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_307",
+    "rule_id": "rule_weight_21_13",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_308",
+    "rule_id": "rule_weight_21_13",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_309",
+    "rule_id": "rule_weight_21_13",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_310",
+    "rule_id": "rule_weight_21_13",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_311",
+    "rule_id": "rule_weight_21_13",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_312",
+    "rule_id": "rule_weight_21_13",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_313",
+    "rule_id": "rule_weight_21_13",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_314",
+    "rule_id": "rule_weight_21_13",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_315",
+    "rule_id": "rule_weight_21_13",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_316",
+    "rule_id": "rule_weight_21_13",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_317",
+    "rule_id": "rule_weight_21_13",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_318",
+    "rule_id": "rule_weight_21_13",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_319",
+    "rule_id": "rule_weight_21_13",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_320",
+    "rule_id": "rule_weight_21_13",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_321",
+    "rule_id": "rule_weight_21_13",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_322",
+    "rule_id": "rule_weight_21_13",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_323",
+    "rule_id": "rule_weight_21_13",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_324",
+    "rule_id": "rule_weight_21_13",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_325",
+    "rule_id": "rule_weight_21_13",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_326",
+    "rule_id": "rule_weight_21_14",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_327",
+    "rule_id": "rule_weight_21_14",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_328",
+    "rule_id": "rule_weight_21_14",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_329",
+    "rule_id": "rule_weight_21_14",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_330",
+    "rule_id": "rule_weight_21_14",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_331",
+    "rule_id": "rule_weight_21_14",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_332",
+    "rule_id": "rule_weight_21_14",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_333",
+    "rule_id": "rule_weight_21_14",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_334",
+    "rule_id": "rule_weight_21_14",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_335",
+    "rule_id": "rule_weight_21_14",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_336",
+    "rule_id": "rule_weight_21_14",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_337",
+    "rule_id": "rule_weight_21_14",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_338",
+    "rule_id": "rule_weight_21_14",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_339",
+    "rule_id": "rule_weight_21_14",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_340",
+    "rule_id": "rule_weight_21_14",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_341",
+    "rule_id": "rule_weight_21_14",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_342",
+    "rule_id": "rule_weight_21_14",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_343",
+    "rule_id": "rule_weight_21_14",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_344",
+    "rule_id": "rule_weight_21_14",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_345",
+    "rule_id": "rule_weight_21_14",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_346",
+    "rule_id": "rule_weight_21_14",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_347",
+    "rule_id": "rule_weight_21_14",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_348",
+    "rule_id": "rule_weight_21_14",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_349",
+    "rule_id": "rule_weight_21_14",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_350",
+    "rule_id": "rule_weight_21_14",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_351",
+    "rule_id": "rule_weight_21_15",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_352",
+    "rule_id": "rule_weight_21_15",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_353",
+    "rule_id": "rule_weight_21_15",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_354",
+    "rule_id": "rule_weight_21_15",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_355",
+    "rule_id": "rule_weight_21_15",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_356",
+    "rule_id": "rule_weight_21_15",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_357",
+    "rule_id": "rule_weight_21_15",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_358",
+    "rule_id": "rule_weight_21_15",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_359",
+    "rule_id": "rule_weight_21_15",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_360",
+    "rule_id": "rule_weight_21_15",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_361",
+    "rule_id": "rule_weight_21_15",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_362",
+    "rule_id": "rule_weight_21_15",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_363",
+    "rule_id": "rule_weight_21_15",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_364",
+    "rule_id": "rule_weight_21_15",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_365",
+    "rule_id": "rule_weight_21_15",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_366",
+    "rule_id": "rule_weight_21_15",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_367",
+    "rule_id": "rule_weight_21_15",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_368",
+    "rule_id": "rule_weight_21_15",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_369",
+    "rule_id": "rule_weight_21_15",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_370",
+    "rule_id": "rule_weight_21_15",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_371",
+    "rule_id": "rule_weight_21_15",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_372",
+    "rule_id": "rule_weight_21_15",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_373",
+    "rule_id": "rule_weight_21_15",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_374",
+    "rule_id": "rule_weight_21_15",
+    "reason": "Case does not satisfy rule conditions"
+  },
+  {
+    "case_id": "case_375",
+    "rule_id": "rule_weight_21_15",
+    "reason": "Case does not satisfy rule conditions"
+  }
+]

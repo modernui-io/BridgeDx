@@ -1,0 +1,40 @@
+fastapi==0.115.0
+uvicorn[standard]==0.32.0
+pydantic==2.9.0
+pydantic-settings==2.6.0
+sqlmodel==0.0.22
+python-dotenv==1.0.1
+python-multipart==0.0.12
+httpx==0.27.2
+
+# RAG
+chromadb==0.5.20
+rank-bm25==0.2.2
+sentence-transformers @ git+https://github.com/UKPLab/sentence-transformers.git
+
+# Storage
+boto3==1.35.0
+botocore==1.35.0
+
+# Vertex AI (only needed for INFERENCE_BACKEND=vertex)
+google-cloud-aiplatform==1.71.0
+vertexai==1.71.0
+
+# Ollama (only needed for INFERENCE_BACKEND=local)
+ollama==0.4.4
+
+# Image handling
+Pillow==11.0.0
+
+# Audio
+librosa==0.10.2
+soundfile==0.12.1
+torch==2.2.2
+transformers @ git+https://github.com/huggingface/transformers.git@65dc261512cbdb1ee72b88ae5b222f2605aad8e5
+
+# Utilities
+numpy==1.26.4
+scikit-learn==1.5.2
+requests==2.32.3
+beautifulsoup4==4.12.3
+pdfplumber==0.11.4

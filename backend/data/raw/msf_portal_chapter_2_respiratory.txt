@@ -1,0 +1,31 @@
+SOURCE: MSF Medical Guidelines Portal
+TOPIC: chapter_2_respiratory
+URL: https://medicalguidelines.msf.org/en/viewport/CG/english/chapter-2-respiratory-diseases-16689154.html
+---
+Acute upper airway obstruction
+Rhinitis and rhinopharyngitis (common cold)
+Acute sinusitis
+Acute pharyngitis
+Diphtheria
+Other upper respiratory tract infections
+Croup (laryngotracheitis and laryngotracheobronchitis)
+Epiglottitis
+Bacterial tracheitis
+Otitis
+Acute otitis externa
+Acute otitis media (AOM)
+Chronic suppurative otitis media (CSOM)
+Pertussis (whooping cough)
+Bronchitis
+Acute bronchitis
+Chronic bronchitis
+Bronchiolitis
+Acute pneumonia
+Pneumonia in children under 5 years of age
+Pneumonia in children over 5 years and adults
+Persistent pneumonia
+Staphylococcal pneumonia
+Asthma
+Acute asthma (asthma attack)
+Chronic asthma
+Pulmonary tuberculosis
