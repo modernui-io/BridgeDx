@@ -94,9 +94,7 @@ MedGemmaHackathon/
 ├── tests/
 │   └── test_scenario_a.py        # Automated validation tests
 ├── start.sh                      # One-command startup
-├── stop.sh                       # Graceful shutdown
-├── TECHNICAL_WRITEUP.md          # 3-page technical overview
-└── DEMO_SCRIPT.md                # 3-minute demo video script
+└── stop.sh                       # Graceful shutdown
 ```
 
 ## Validated Scenarios
